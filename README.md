@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Suraj Shetty</h1>
 <h3 align="center">A passionate Backend Developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=surajshetty12" alt="surajshetty12" /></a> </p>
-
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **NEXTjs**
